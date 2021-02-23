@@ -42,6 +42,15 @@ namespace ClassMetotDemo
             Console.WriteLine("---------------------------");
 
             musteriManager.MusteriSilme(musteri3);
+
+
+
+
+
+
+
+
+            Console.WriteLine("-----------deneme--------");
         }
 
 
